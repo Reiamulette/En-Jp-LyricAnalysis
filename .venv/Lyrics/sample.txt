@@ -1,0 +1,46 @@
+\*
+*   ARTIST: Avril Lavigne
+*
+*   FILENAME:
+*       AvrilLavigne_Sk8terBoi.txt
+*
+*   SONG TITLE:
+*       Sk8ter Boi
+*
+*   YEAR:
+*
+*       2002
+*
+*   DESCRIPTION:
+*
+*       This song is from Avril Lavigne's debut album "Let go".
+*       It was released on Sept 9th, 2002.
+*       This is just to test multiline regex.
+*
+*   AGENCY:
+*
+*       Elektra Records
+*
+*   AGENCY ADDRESS:
+*
+*        75 Rockefeller Plaza
+*        New York, New York 10019
+*
+*
+*
+*******************************
+There is some body code that should be not touched by the code
+
+input_text = """
+*
+* DESCRIPTION:
+*
+*   This is line 1 of content.
+*   This is line 2 of content.
+*
+* TEST:
+*
+*   Testing 123
+*   Testing 456
+*
+"""

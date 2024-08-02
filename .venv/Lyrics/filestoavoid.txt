@@ -1,0 +1,2 @@
+/Users/reiamulette/PycharmProjects/EM624/SYS800 Project/LyricAnalysis/.venv/Lyrics/English Lyrics/1960/LouisArmstrong_WhatAWonderfulWorld.txt
+/Users/reiamulette/PycharmProjects/EM624/SYS800 Project/LyricAnalysis/.venv/Lyrics/English Lyrics/1970/ABBA_DancingQueen.txt
